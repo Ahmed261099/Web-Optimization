@@ -1,0 +1,28 @@
+
+$color: rgba(0,0,0, 0.4);
+.myDiv{
+  
+  color: rgb(251, 0, 0);
+  font-weight: bold;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
+
+.myDiv2{
+  background-color: bisque;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  top: 30%;
+  left: 50%;
+  transform: translate(10%, 10%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
+}
